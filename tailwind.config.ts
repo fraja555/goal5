@@ -24,7 +24,7 @@ const config: Config = {
       colors: {
         'brand-70': '#B84200',
         'brand-60': '#E66001',
-        'brand-50': '#66CCff',
+        'brand-50': '#3366cc',
         'brand-15': '#3A2B20',
         'brand-10': '#642900',
         'brand-5': '#331500',
@@ -37,7 +37,7 @@ const config: Config = {
         'grey-15': '#2E2E2E',
         'grey-10': '#1F1F1F',
 
-        'bg-l0': '#1a2533',
+        'bg-l0': '#111111',
         'bg-l1': '#171717',
         'bg-l2': '#242424',
         'bg-l3': '#2E2E2E',
