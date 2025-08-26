@@ -37,7 +37,7 @@ const config: Config = {
         'grey-15': '#2E2E2E',
         'grey-10': '#1F1F1F',
 
-        'bg-l0': '#66CCFF',
+        'bg-l0': '#1a2533',
         'bg-l1': '#171717',
         'bg-l2': '#242424',
         'bg-l3': '#2E2E2E',
