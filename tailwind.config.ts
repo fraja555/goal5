@@ -24,7 +24,7 @@ const config: Config = {
       colors: {
         'brand-70': '#B84200',
         'brand-60': '#E66001',
-        'brand-50': '#66ccff',
+        'brand-50': '#66CCff',
         'brand-15': '#3A2B20',
         'brand-10': '#642900',
         'brand-5': '#331500',
@@ -37,7 +37,7 @@ const config: Config = {
         'grey-15': '#2E2E2E',
         'grey-10': '#1F1F1F',
 
-        'bg-l0': '#111111',
+        'bg-l0': '#66CCFF',
         'bg-l1': '#171717',
         'bg-l2': '#242424',
         'bg-l3': '#2E2E2E',
@@ -68,8 +68,8 @@ const config: Config = {
         'lg': '1.25rem', // 20
       },
       backgroundImage: ({ theme }) => ({
-        'card-border-top': 'linear-gradient(180deg, rgba(239, 239, 243, 0.15) 0%, rgba(239, 239, 243, 0) 100%)',
-        'card-border-bottom': 'linear-gradient(180deg, rgba(239, 239, 243, 0) 0%, rgba(239, 239, 243, 0.15) 100%)',
+        'card-border-top': 'linear-gradient(180deg, rgba(200, 50, 100, 1) 0%, rgba(200, 50, 100, 1) 100%)',
+        'card-border-bottom': 'linear-gradient(180deg, rgba(200, 50, 100, 0.90) 0%, rgba(200, 50, 100, 0.90) 100%)',
         'live-switcher-bg': 'linear-gradient(90deg, rgba(61, 32, 31, 0.5) 0%, rgba(61, 32, 31, 0) 100%)',
         'betslip-item-bg': `linear-gradient(90.08deg, ${theme('colors.bg-l2')} 0.06%, ${theme('colors.brand-10')} 300%)`,
         'betslip-item-bg-inc': `linear-gradient(90.08deg, ${theme('colors.bg-l2')} 0.06%, ${theme('colors.accent-green')} 300%)`,
