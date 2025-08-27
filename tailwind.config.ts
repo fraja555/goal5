@@ -22,8 +22,8 @@ const config: Config = {
     },
     extend: {
       colors: {
-        'brand-70': '#B84200',
-        'brand-60': '#E66001',
+        'brand-70': '#0D00B8',
+        'brand-60': '#0060FF',
         'brand-50': '#3366cc',
         'brand-15': '#3A2B20',
         'brand-10': '#3399CC',
