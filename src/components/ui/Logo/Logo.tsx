@@ -13,7 +13,7 @@ const Logo: React.FC<LogoProps> = (props) => {
   return (
     <Href to="/" className={cx('flex items-center justify-center', className)}>
       <span className="font-rookie font-bold text-white text-vookie spaced-text">
-        VKBET
+        VOOKIE
       </span>
     </Href>
   )
