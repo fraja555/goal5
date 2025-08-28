@@ -1,6 +1,6 @@
 import cx from 'classnames'
 import { Href } from 'components/navigation'
-import VkbetLogo from '@/images/vkbet.svg' // 👈 adjust the path if needed
+import VkbetLogo from './vkbet.svg'
 
 type LogoProps = {
   className?: string
@@ -12,7 +12,7 @@ const Logo: React.FC<LogoProps> = ({ className }) => {
       <img
         src={VkbetLogo}
         alt="VKBET Logo"
-        className="h-8 w-auto" // you can change h-8 to any Tailwind size
+        className="h-8 w-auto"
       />
     </Href>
   )
