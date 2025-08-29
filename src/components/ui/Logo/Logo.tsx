@@ -38,5 +38,3 @@ const Logo: React.FC<LogoProps> = (props) => {
     </Href>
   )
 }
-
-export default Logo
