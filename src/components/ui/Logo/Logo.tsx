@@ -14,9 +14,9 @@ const Logo: React.FC<LogoProps> = (props) => {
     <Href to="/" className={cx('flex items-center', className)}>
       <svg
         className="h-full"
-        width="71"
+        width="127"
         height="59"
-        viewBox="0 0 71 59"
+        viewBox="0 0 127 59"
         xmlns="http://www.w3.org/2000/svg"
       >
         <path d="M0 0 C41.91 0 83.82 0 127 0 C127 19.47 127 38.94 127 59 C85.09 59 43.18 59 0 59 C0 39.53 0 20.06 0 0 Z " fill="#000205" transform="translate(0,0)" />
@@ -40,4 +40,5 @@ const Logo: React.FC<LogoProps> = (props) => {
 }
 
 export default Logo
+
 
