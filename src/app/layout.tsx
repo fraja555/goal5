@@ -21,8 +21,8 @@ const inter = Inter({ subsets: [ 'latin' ] })
 
 export const metadata: Metadata = {
   metadataBase: new URL(constants.baseUrl),
-  title: 'VkBet.xyz - Decentralized Crypto Sports Betting',
-  description: '',
+  title: 'Goal5.io - The World´s First Truly Decentralized Crypto Sportsbook',
+  description: 'Goal5 takes your bets to the blockchain. Crypto-powered, censorship-proof, and 100% in your control — this is sports betting without borders powered by Azuro.',
 }
 
 export default async function RootLayout({
