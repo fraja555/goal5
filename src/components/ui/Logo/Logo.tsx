@@ -15,7 +15,7 @@ const Logo: React.FC<LogoProps> = (props) => {
       <img
         src="/images/logo1.webp"
         alt="Logo"
-        className="h-full w-auto"
+        className="h-full w-auto max-h-full max-w-full object-contain"
       />
     </Href>
   )
