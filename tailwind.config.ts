@@ -22,25 +22,25 @@ const config: Config = {
     },
     extend: {
       colors: {
-        'brand-70': '#0D00B8',
-        'brand-60': '#0060FF',
-        'brand-50': '#3366cc',
+        'brand-70': '#cc0066',
+        'brand-60': '#cc0000',
+        'brand-50': '#cc3366',
         'brand-15': '#3A2B20',
-        'brand-10': '#3399CC',
-        'brand-5': '#CCCCCC',
+        'brand-10': '#cc3399',
+        'brand-5': '#ffcccc',
 
         'grey-90': '#EBEBEB',
         'grey-70': '#ADADAD',
         'grey-60': '#999999',
         'grey-40': '#7E7E7E',
         'grey-20': '#3B3B3B',
-        'grey-15': '#2E2E2E',
+        'grey-15': '#990000',
         'grey-10': '#1F1F1F',
 
         'bg-l0': '#111111',
         'bg-l1': '#171717',
-        'bg-l2': '#242424',
-        'bg-l3': '#2E2E2E',
+        'bg-l2': '#330000',
+        'bg-l3': '#663333',
 
         'accent-pink': '#F768A0',
         'accent-pink-5': '#442E37',
@@ -68,8 +68,8 @@ const config: Config = {
         'lg': '1.25rem', // 20
       },
       backgroundImage: ({ theme }) => ({
-        'card-border-top': 'linear-gradient(180deg, rgba(50, 150, 200, 1) 0%, rgba(50, 150, 200, 1) 100%)',
-        'card-border-bottom': 'linear-gradient(180deg, rgba(50, 150, 200, 0.90) 0%, rgba(50, 150, 200, 0.90) 100%)',
+        'card-border-top': 'linear-gradient(180deg, rgba(199, 50, 50, 1) 0%, rgba(205, 55, 125, 1) 100%)',
+        'card-border-bottom': 'linear-gradient(180deg, rgba(199, 50, 50, 0.90) 0%, rgba(205, 55, 125, 0.90) 100%)',
         'live-switcher-bg': 'linear-gradient(90deg, rgba(61, 32, 31, 0.5) 0%, rgba(61, 32, 31, 0) 100%)',
         'betslip-item-bg': `linear-gradient(90.08deg, ${theme('colors.bg-l2')} 0.06%, ${theme('colors.brand-10')} 300%)`,
         'betslip-item-bg-inc': `linear-gradient(90.08deg, ${theme('colors.bg-l2')} 0.06%, ${theme('colors.accent-green')} 300%)`,
