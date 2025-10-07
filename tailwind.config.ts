@@ -34,7 +34,7 @@ const config: Config = {
         'grey-60': '#999999',
         'grey-40': '#7E7E7E',
         'grey-20': '#3B3B3B',
-        'grey-15': '#2E2E2E',
+        'grey-15': '#990000',
         'grey-10': '#1F1F1F',
 
         'bg-l0': '#111111',
