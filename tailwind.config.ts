@@ -27,7 +27,7 @@ const config: Config = {
         'brand-50': '#cc3366',
         'brand-15': '#3A2B20',
         'brand-10': '#cc3399',
-        'brand-5': '#ff9999',
+        'brand-5': '#ffcccc',
 
         'grey-90': '#EBEBEB',
         'grey-70': '#ADADAD',
