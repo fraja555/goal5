@@ -22,11 +22,11 @@ const config: Config = {
     },
     extend: {
       colors: {
-        'brand-70': '#0D00B8',
-        'brand-60': '#0060FF',
-        'brand-50': '#3366cc',
+        'brand-70': '#cc0066',
+        'brand-60': '#cc0000',
+        'brand-50': '#cc3366',
         'brand-15': '#3A2B20',
-        'brand-10': '#3399CC',
+        'brand-10': '#cc3399',
         'brand-5': '#CCCCCC',
 
         'grey-90': '#EBEBEB',
