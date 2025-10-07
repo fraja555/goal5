@@ -39,8 +39,8 @@ const config: Config = {
 
         'bg-l0': '#111111',
         'bg-l1': '#171717',
-        'bg-l2': '#242424',
-        'bg-l3': '#2E2E2E',
+        'bg-l2': '#330000',
+        'bg-l3': '#663333',
 
         'accent-pink': '#F768A0',
         'accent-pink-5': '#442E37',
