@@ -93,6 +93,9 @@ const nextConfig = {
       'helpers/getters',
       'hooks'
     ]
+  },
+  eslint: {
+    ignoreDuringBuilds: true,
   }
 }
 

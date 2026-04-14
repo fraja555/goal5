@@ -519,7 +519,6 @@ const Content: React.FC<ContentProps> = ({ tab }) => {
     filter: {
       bettor: address!,
       type: tab,
-      affiliate: process.env.NEXT_PUBLIC_AFFILIATE_ADDRESS as Address,
     },
   }
 
